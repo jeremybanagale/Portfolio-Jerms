@@ -23,9 +23,6 @@ var skills = [{
   name: "Git",
   url: 'https://git-scm.com/'
 }, {
-  name: "Data Extraction",
-  url: 'https://en.wikipedia.org/wiki/Data_extraction'
-}, {
   name: "Pug.js",
   url: 'https://pugjs.org/api/getting-started.html'
 }, {

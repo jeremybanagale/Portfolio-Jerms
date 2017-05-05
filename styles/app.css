@@ -657,6 +657,19 @@ section {
   display: inline-block;
   margin-right: 5px;
 }
+.model-7 .tooltip:after {
+  content: "" attr(tooltip) "";
+  margin-left: 3px;
+  color: #9B9B9B;
+}
+.model-7 .tooltip:before {
+  content: '';
+  width: 8px;
+  height: 8px;
+  background: #9B9B9B;
+  display: inline-block;
+  margin-right: 5px;
+}
 .graph {
   width: 300px;
   height: 150px;
@@ -811,10 +824,19 @@ section.model-6 .graph {
   color: #9c88f7;
 }
 section.model-6 .graph:before {
+  -ms-transform: rotate(126deg);
+  -webkit-transform: rotate(126deg);
+  transform: rotate(126deg);
+  border-color: #9c88f7;
+}
+section.model-7 .graph {
+  color: #9B9B9B;
+}
+section.model-7 .graph:before {
   -ms-transform: rotate(144deg);
   -webkit-transform: rotate(144deg);
   transform: rotate(144deg);
-  border-color: #9c88f7;
+  border-color: #9B9B9B;
 }
 /*section.model-3 .javaScript:before {
   -ms-transform: rotate(90deg);

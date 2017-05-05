@@ -4,10 +4,11 @@ var profile = {
     middle_name: "Aclan",
     last_name: "Bañagale",
     title: "Web Developer",
+    bday: "March 10 1997",
     age: "20",
     location: "San Francisco Calihan San Pablo, Laguna",
     mobile: "+639568878987",
-    email: "jbanagale.bos@gmail.com"
+    email: "JBANAGALE.BOS@gmail.com"
 
   },
   work: {

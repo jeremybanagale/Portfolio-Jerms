@@ -7,19 +7,15 @@ var profile = {
     age: "20",
     location: "San Francisco Calihan San Pablo, Laguna",
     mobile: "+639568878987",
-    email: "jbanagale.bos@gmail.com",
+    email: "jbanagale.bos@gmail.com"
+
+  },
+  work: {
     company: "Big Outsource",
     company_location: "San Pablo City, Laguna",
     company_title: 'OJT On-the-Job Training',
     period: 'January 2017 - May 2017',
     icon: 'imgs/BOS.png'
-  },
-  social: {
-    facebook: "",
-    linkedin: "",
-    github: "https://github.com/jeremybanagale",
-    codepen: "http://codepen.io/exiege/",
-    stack_overflow: "http://stackoverflow.com/users/4918036/jigno-alfred-venezuela"
   }
 };
 
@@ -66,25 +62,3 @@ var schools = [{
   icon: 'imgs/central.png',
   sy: "2006-2009"
 }];
-
-// var languages = [{
-//   name: "PHP",
-//   percent: "60%",
-//   offset: '351'
-// }, {
-//   name: "VB.NET",
-//   percent: "75%",
-//   offset: '481'
-// }, {
-//   name: "Python",
-//   percent: "45%",
-//   offset: '281'
-// }, {
-//   name: "Javascript",
-//   percent: "80%",
-//   offset: '521'
-// }, {
-//   name: "HTML/CSS",
-//   percent: "58%",
-//   offset: '321'
-// }];
